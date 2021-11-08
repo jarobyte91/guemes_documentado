@@ -1,4 +1,4 @@
-# ocr_correction
+# Guemes Documentado post-OCR correction engine
 
 ## Installation
 
