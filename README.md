@@ -2,12 +2,12 @@
 
 ## Installation
 
-git clone https://github.com/jarobyte91/ocr_correction.git --recursive
+    git clone https://github.com/jarobyte91/guemes_documentado.git --recursive
 
 ## Usage
 
-python corrector.py test_in.txt test_out.txt
+    python corrector.py test_in.txt test_out.txt
 
 ## To install pytorch_decoding as a submodule
 
-git submodule update --init --recursive
+    git submodule update --init --recursive
